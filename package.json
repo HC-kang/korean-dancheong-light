@@ -1,0 +1,21 @@
+{
+  "name": "korean-dancheong-light",
+  "displayName": "korean-dancheong-light",
+  "description": "A light theme inspired by Korean Dancheong — born from a visit to Bulguksa Temple in Gyeongju, reimagined for modern coding.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "korean-dancheong-light",
+        "uiTheme": "vs",
+        "path": "./themes/korean-dancheong-light-color-theme.json"
+      }
+    ]
+  }
+}
