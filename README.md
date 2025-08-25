@@ -1,16 +1,12 @@
-# korean-dancheong-light README
+# Korean Dancheong Light Theme
 
-## Working with Markdown
+한국 단청에서 영감을 받은 VS Code 라이트 테마입니다. 경주 불국사 방문에서 시작된 아이디어를 현대적인 프로그래밍 환경에 재해석했습니다.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## 소개
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+단청(丹靑)은 한국 전통 건축물의 목조 부분에 여러 색깔로 그린 무늬를 말합니다.
+이 테마는 불국사의 단청 색상에서 영감을 받아 이를 프로그래밍 환경에 적용하여, 눈의 피로를 줄이면서도 가독성을 높이고 효과적인 프로그래밍 경험을 제공합니다.
 
-## For more information
+## 라이센스
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+MIT License - 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.

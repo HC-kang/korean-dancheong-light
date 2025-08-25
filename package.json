@@ -1,10 +1,37 @@
 {
   "name": "korean-dancheong-light",
-  "displayName": "korean-dancheong-light",
+  "displayName": "Korean Dancheong Light",
   "description": "A light theme inspired by Korean Dancheong — born from a visit to Bulguksa Temple in Gyeongju, reimagined for modern coding.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "weston0713",
+  "author": {
+    "name": "HC-kang"
+  },
+  "license": "MIT",
+  "icon": "logo.webp",
+  "keywords": [
+    "korean",
+    "dancheong",
+    "light",
+    "theme",
+    "temple",
+    "traditional",
+    "colors"
+  ],
+  "galleryBanner": {
+    "color": "#F5F5F5",
+    "theme": "light"
+  },
+  "homepage": "https://github.com/HC-kang/korean-dancheong-light#readme",
+  "bugs": {
+    "url": "https://github.com/HC-kang/korean-dancheong-light/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HC-kang/korean-dancheong-light"
+  },
   "engines": {
-    "vscode": "^1.103.0"
+    "vscode": "^1.60.0"
   },
   "categories": [
     "Themes"
@@ -12,8 +39,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "korean-dancheong-light",
-        "uiTheme": "vs",
+        "label": "Korean Dancheong Light",
+        "uiTheme": "vs-light",
         "path": "./themes/korean-dancheong-light-color-theme.json"
       }
     ]
