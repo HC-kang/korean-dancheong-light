@@ -73,6 +73,9 @@
     "input.placeholderForeground": "#8E8E93",
 
     "panel.background": "#ECF3ED",
+    "panelTitle.activeForeground": "#333333",
+    "panelTitle.inactiveForeground": "#8E8E93",
+    "panelTitle.activeBorder": "#116AEE",
     "panel.border": "#D1E0D9",
 
     "list.activeSelectionBackground": "#FDD8D666",
