@@ -33,8 +33,22 @@
     "editorIndentGuide.background1": "#D7E4DE",
     "editorIndentGuide.activeBackground1": "#116AEE",
     "editorWhitespace.foreground": "#C9D7D0",
+
     "editorHoverWidget.background": "#ECF3ED",
     "editorHoverWidget.border": "#D1E0D9",
+
+    "editorSuggestWidget.background": "#ECF3ED",
+    "editorSuggestWidget.border": "#D1E0D9",
+    "editorSuggestWidget.foreground": "#333333",
+    "editorSuggestWidget.selectedBackground": "#FDD8D666",
+    "editorSuggestWidget.selectedForeground": "#333333",
+    "editorSuggestWidget.highlightForeground": "#116AEE",
+    "editorSuggestWidget.focusHighlightForeground": "#116AEE",
+
+    "editorWidget.background": "#ECF3ED",
+    "editorWidget.foreground": "#333333",
+    "editorWidget.border": "#D1E0D9",
+    "editorWidget.resizeBorder": "#116AEE",
 
     "editorGroupHeader.tabsBackground": "#EAF3EE",
     "editorGroupHeader.tabsBorder": "#D1E0D9",
@@ -43,7 +57,7 @@
     "activityBar.foreground": "#333333",
     "activityBar.inactiveForeground": "#8E8E93",
     "activityBarBadge.background": "#116AEE",
-    "activityBarBadge.foreground": "#ECF3ED",
+    "activityBarBadge.foreground": "#FFFFFF",
 
     "sideBar.background": "#E0EBE4",
     "sideBar.foreground": "#333333",
@@ -70,7 +84,20 @@
     "input.background": "#EAF3EE",
     "input.foreground": "#333333",
     "input.border": "#D1E0D9",
-    "input.placeholderForeground": "#8E8E93",
+    "input.placeholderForeground": "#5E5E68",
+
+    "inputOption.activeBorder": "#116AEE",
+    "inputOption.activeBackground": "#116AEE20",
+    "inputOption.activeForeground": "#333333",
+
+    "dropdown.background": "#EAF3EE",
+    "dropdown.foreground": "#333333",
+    "dropdown.border": "#D1E0D9",
+    "dropdown.listBackground": "#ECF3ED",
+
+    "checkbox.background": "#EAF3EE",
+    "checkbox.foreground": "#333333",
+    "checkbox.border": "#D1E0D9",
 
     "panel.background": "#ECF3ED",
     "panelTitle.activeForeground": "#333333",
@@ -87,29 +114,51 @@
     "list.warningForeground": "#B8860B",
     "list.focusBackground": "#FDD8D680",
 
+    "quickInput.background": "#ECF3ED",
+    "quickInput.foreground": "#333333",
+    "quickInputTitle.background": "#EAF3EE",
+    "quickInputList.focusBackground": "#FDD8D666",
+    "quickInputList.focusForeground": "#333333",
+    "quickInputList.focusIconForeground": "#116AEE",
+
+    "menu.foreground": "#333333",
+    "menu.background": "#EAF3EE",
+    "menu.selectionForeground": "#333333",
+    "menu.selectionBackground": "#FDD8D666",
+    "menu.separatorBackground": "#D1E0D9",
+    "menu.border": "#D1E0D9",
+    "menubar.selectionForeground": "#333333",
+    "menubar.selectionBackground": "#E6F0EB",
+
     "breadcrumb.foreground": "#8E8E93",
     "breadcrumb.focusForeground": "#116AEE",
 
     "badge.background": "#116AEE",
-    "badge.foreground": "#ECF3ED",
+    "badge.foreground": "#FFFFFF",
 
     "button.background": "#116AEE",
-    "button.foreground": "#ECF3ED",
+    "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#0066CC",
 
     "notificationCenterHeader.background": "#EAF3EE",
+    "notificationCenterHeader.foreground": "#333333",
     "notifications.background": "#ECF3ED",
     "notifications.foreground": "#333333",
+    "notificationToast.border": "#D1E0D9",
+
+    "progressBar.background": "#116AEE",
 
     "minimap.findMatchHighlight": "#FAE3B480",
     "minimap.selectionHighlight": "#FDD8D666",
     "minimap.errorHighlight": "#C24141",
     "minimap.warningHighlight": "#B8860B",
 
-    "editorWidget.background": "#ECF3ED",
-    "editorWidget.border": "#D1E0D9",
     "peekViewEditor.background": "#ECF3ED",
     "peekViewResult.background": "#EAF3EE",
+    "peekViewTitle.background": "#EAF3EE",
+    "peekViewTitleLabel.foreground": "#333333",
+    "peekViewTitleDescription.foreground": "#8E8E93",
+    "peekViewTitleInfo.foreground": "#116AEE",
 
     "diffEditor.insertedTextBackground": "#2E7D3218",
     "diffEditor.removedTextBackground": "#C2414118",
@@ -131,6 +180,11 @@
     "gitDecoration.deletedResourceForeground": "#C24141",
     "gitDecoration.untrackedResourceForeground": "#0088EE",
     "gitDecoration.ignoredResourceForeground": "#8E8E93",
+
+    "scrollbar.shadow": "#00000033",
+    "scrollbarSlider.background": "#8E8E9380",
+    "scrollbarSlider.hoverBackground": "#8E8E93A0",
+    "scrollbarSlider.activeBackground": "#8E8E93C0",
 
     "terminal.background": "#ECF3ED",
     "terminal.selectionBackground": "#FDD8D666",
